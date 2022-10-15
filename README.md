@@ -10,3 +10,5 @@ A script was written to try different methods during development. The script is 
 
 
 The second script was made to extract time-frequency activities in EEG signal after TMS burst. It is written using python package MNE.
+It is divided in two files. 
+- TF_FromTESA_TMS_Only_2022ICA: Extraction of Time-Frequency activities for averaged segments of trials with TMS burst only.
